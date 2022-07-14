@@ -13,7 +13,9 @@
   },
   "keywords": [
     "Stumble",
-    "Faiz-Hidayat"
+    "Stumble-Hack",
+    "Faiz-Hidayat",
+    "Stumble-Bot"
   ],
   "author": "Faiz-Hidayat",
   "license": "MIT",
@@ -26,6 +28,7 @@
     "figlet": "^1.5.2",
     "inquirer": "^8.2.4",
     "is-oxi": "^1.0.0",
-    "moment": "^2.29.3"
+    "moment": "^2.29.3",
+    "readline-sync": "^1.4.10"
   }
 }
