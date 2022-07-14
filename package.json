@@ -1,0 +1,31 @@
+{
+  "name": "stumblebot",
+  "version": "1.0.0",
+  "description": "Stumble Bot For Trophy and Crown",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faiz-Hidayat/stumble.git"
+  },
+  "keywords": [
+    "Stumble",
+    "Faiz-Hidayat"
+  ],
+  "author": "Faiz-Hidayat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Faiz-Hidayat/Stumble/issues"
+  },
+  "homepage": "https://github.com/Faiz-Hidayat/Stumble#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4",
+    "is-oxi": "^1.0.0",
+    "moment": "^2.29.3"
+  }
+}
